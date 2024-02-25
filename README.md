@@ -8,3 +8,6 @@ Interactive Visualizations: Leveraging Tableau and Power BI, the dashboard offer
 Stakeholder Collaboration: The development process involved collaboration with stakeholders via email to understand requirements, gather feedback, and iterate on the dashboard design. This ensured alignment with the department's objectives and user needs.
 Meticulous Data Processing: The dashboard underwent meticulous data processing and customization to ensure accuracy and usability. Custom columns and filters were created to extract relevant metrics, enhancing the dashboard's functionality.
 Insightful Presentation: Key insights and recommendations derived from the dashboard analysis were presented to stakeholders through a PowerPoint presentation. This facilitated informed decision-making by providing actionable insights for infrastructure planning and construction projects.
+
+Link to Dashboard on Tableau:
+https://public.tableau.com/app/profile/ahmdlx/viz/theMinnesotaDepartmentofTransportation/Dashboard1#1
