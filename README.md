@@ -2,6 +2,13 @@
 On this project i was tasked with developing a dashboard for the Minnesota Department of Transportation to help monitor traffic patterns and support infrastructure decisions which is a component of my [Google Business Intelligence Certificate](https://coursera.org/share/c4f4857aeaf61150279d9e74d63276fa).
 #### The department's goals: included analyzing traffic volume throughout the year, in different weather conditions, and during holidays.
 
+## Repository Contents
+#### 1/ Dataset (csv File)
+#### 2/ Tableau Dashboard: [Tableau Dashboard](https://public.tableau.com/app/profile/ahmdlx/viz/theMinnesotaDepartmentofTransportation/Dashboard1#1)
+#### 3/ Slide presenetation (PDF, pptx Files): 
+A comprehensive summary of the project's findings and insights.
+#### 4/ Power Bi Dashboard (PNG File)
+
 ## Key Features
 #### Interactive Visualizations: 
 Leveraging Tableau and Power BI, the dashboard offers interactive visualizations that provide insights into traffic volume data across various time scales, weather conditions, and holidays.
@@ -12,9 +19,7 @@ The dashboard underwent meticulous data processing and customization to ensure a
 #### Insightful Presentation: 
 Key insights and recommendations derived from the dashboard analysis were presented to stakeholders through a PowerPoint presentation. This facilitated informed decision-making by providing actionable insights for infrastructure planning and construction projects.
 
-#### Link to Dashboard : [Tableau Dashboard](https://public.tableau.com/app/profile/ahmdlx/viz/theMinnesotaDepartmentofTransportation/Dashboard1#1)
-
 ## How to Use This Repository
-#### Clone the repository to your local machine.
-#### Open the dashboard using Tableau to explore traffic volume trends and insights.
-#### Review the accompanying PowerPoint presentation for detailed analysis and recommendations.
+#### Clone the Repository: Download the repository to your local machine.
+#### Tableau: Open the link to explore traffic volume trends and insights.
+#### PowerPoint: Review the accompanying presentation for detailed analysis and recommendations.
